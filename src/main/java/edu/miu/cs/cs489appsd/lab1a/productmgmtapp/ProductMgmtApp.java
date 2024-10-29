@@ -25,7 +25,7 @@ public class ProductMgmtApp {
                 new Product("2927458265", "Apple", LocalDate.of(2022, 12, 9), 18, 1.09),
                 new Product("9189927460", "Carrot", LocalDate.of(2023, 3, 31), 89, 2.99)
         );
-
+        System.out.println("ADDDDDDDDDDDDDDDD");
         printProducts(products);
     }
 
